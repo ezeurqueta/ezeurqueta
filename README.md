@@ -8,7 +8,7 @@ I´ve been learning code for 5 years now, ever since i was 15 years old at schoo
 
 * 🌍  I'm based in Córdoba, Argentina
 * ✉️  You can contact me at [ezeurqueta7@gmail.com](mailto:ezeurqueta7@gmail.com)
-* 🚀  I'm currently working on [Intive](http://https://intive.com/es)
+* 🚀  I'm currently working on [Tonic3](http://https://https://tonic3.com)
 * 🧠  I'm learning Blockchain and Solidity
 * 🤝  I'm open to collaborating on Blockchain and Web3 projects
 
